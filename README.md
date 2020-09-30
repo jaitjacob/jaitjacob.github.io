@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## Hi there.
+Thanks for taking the time to visit my page. If you are looking to know what I am working on then this is the right place. There are some links to my other socials on here so feel free to check those out as well.
 
-You can use the [editor on GitHub](https://github.com/jaitjacob/jaitjacob.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links that matter
+1. My LinkedIn profile. 
+2. My Github.
 
-### Markdown
+
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -32,7 +35,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaitjacob/jaitjacob.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-Go to [page1](page2.html)
+Go to [page1](page2.md)
 
 ### Support or Contact
 
